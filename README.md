@@ -4,6 +4,4 @@ Burn cpu in specific kernels,
 using C++11:
 
 
-include <thread>
-
-include <windows.h>
+include <thread> and <windows.h>
