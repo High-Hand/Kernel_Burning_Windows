@@ -40,6 +40,7 @@ int main() {
 	threads:   how many numbers of threads should be used in this application.
 	duration:  how long this application should keep.
 	specific:  specific id of kernel (vector).
+	
 	*/
 
 	char choise = '0';
